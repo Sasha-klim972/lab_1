@@ -32,9 +32,8 @@ public class AppTest {
         Matrix matrixA = new Matrix(new char[][] { {'A'} });
         Matrix matrixB = new Matrix(new char[][] { {'A', 'B'} });
 
-        assertThrows(Exception.class, () -> {
-            matrixA.xor(matrixB);
-        });
+        // Ось тут виправлено на expression lambda (без фігурних дужок)
+        assertThrows(Exception.class, () -> matrixA.xor(matrixB));
     }
 
     @Test
