@@ -25,8 +25,9 @@
   
 ## Відео
 
+https://github.com/user-attachments/assets/453f07bf-203f-4787-a197-a4853420872b
 
-https://github.com/user-attachments/assets/63125b69-4e75-4b26-8c4d-ed94b459c73f
+
 
 
 
